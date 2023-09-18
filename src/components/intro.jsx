@@ -1,7 +1,8 @@
 
-// import Me from "../../img/me.png";
+// import Me from "../img/me.png";
 
 import { skills } from "../skillData";
+// import {Link} from 'react-router-dom'
 
 const Intro = () => {
 
@@ -105,7 +106,7 @@ const Intro = () => {
         </div>
         <div className="i-right">
           <div className="i-bg"></div>
-          {/* <img src={Me} alt="" className="i-img" /> */}
+          <img src="/img/me.png" alt="" className="i-img" />
         </div>
 
       </div>

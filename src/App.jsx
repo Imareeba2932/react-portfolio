@@ -8,7 +8,7 @@ import Contact from './components/contact';
 // import Contact from './components/contact';
 
 
-function App() {
+function App() {``
   return (
     <div>
       <Intro/>

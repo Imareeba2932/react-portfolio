@@ -16,15 +16,12 @@ const About = () => {
       </div>
       <div className="a-right">
         <h1 className="a-title">About Me</h1>
-        <p className="a-sub">
-          It is a long established fact that a reader will be distracted by the
-          readable content.
-        </p>
+        
         <p className="a-desc">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat duis aute irure dolor in reprehende.
+          Hello!, my name is Areeba Shakeel. I am from Lucknow, Uttar Pradesh. I have recently completed my graduation 
+          from Lucknow University with 85% and currently pursuing MCA from IGNOU University.
+          Seeking a beginner role in a reputed organization where i can utilise my technical slills to 
+          the best of extent and contribute to the prosperity of the organization.
         </p>
         <div className="a-award">
           <img src={Award} alt="" className="a-award-img" />
